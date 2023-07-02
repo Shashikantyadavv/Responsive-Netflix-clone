@@ -1,10 +1,4 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/responsive-netflix-clone)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/responsive-netflix-clone)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/responsive-netflix-clone?style=social)
- 
-  <br />
+
 
   <h2 align="center">Responsive Netflix Clone</h2>
 
