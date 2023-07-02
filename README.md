@@ -4,8 +4,6 @@
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
 
-  <a href="https://geeky-prashant.github.io/responsive-netflix-clone/"><strong>➥ Live Demo</strong></a>
-
 </div>
 
 ### Demo Screeshots
