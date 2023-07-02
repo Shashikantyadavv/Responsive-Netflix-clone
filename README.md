@@ -4,6 +4,10 @@
 
   In this project, I have created Responsive Netflix Clone, The project is built using HTML5, CSS3 & JavaScript.
 
+  Demo: 
+  https://shashikantyadavv.github.io/Responsive-Netflix-clone/ 
+  ```
+
 </div>
 
 ### Demo Screeshots
